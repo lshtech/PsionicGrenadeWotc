@@ -1,0 +1,7 @@
+[X2PsiGrenade_StatusEffect]
+PsiDisorientedFriendlyName="Psichosis"
+PsiDisorientedLostFriendlyName="Psichosis Removed"
+PsiDisorientedFriendlyDesc="Suffering movement, aim, and will penalties. Many abilities are restricted."
+PsiDisorientedEffectAcquiredString="<XGParam:StrValue0/!UnitName/> is psichotic."
+PsiDisorientedEffectTickedString="<XGParam:StrValue0/!UnitName/> is still psichotic."
+PsiDisorientedEffectLostString="<XGParam:StrValue0/!UnitName/> is no longer psichotic."
